@@ -1,15 +1,23 @@
-Here's your provided content formatted **exactly as-is** for inclusion in a `README.md` file, using proper Markdown syntax:
+---
 
-```markdown
 # Program 1 - Responsive Shopping Cart Web Application
 
+---
+
 ## AIM
+
 To create a responsive shopping cart web application using CSS3, Flexbox, and Grid for layout design.
 
+---
+
 ## DESCRIPTION
+
 This application allows users to register, log in, browse a product catalog, add items to the shopping cart, and view the cart contents. It utilizes CSS3 features such as Flexbox and Grid for responsive layouts and ensures that the application is mobile-friendly and adjusts seamlessly to different screen sizes.
 
+---
+
 ## Project Structure
+
 ```
 
 ShoppingCartApp/
@@ -43,8 +51,8 @@ ShoppingCartApp/
 1. Clone the repository:
    ```bash
    git clone https://github.com/Mounika-Bakaram/shopping-cart.git
+   ```
 
-````
 
 2. Navigate into the project directory:
 
@@ -66,10 +74,11 @@ ShoppingCartApp/
    ```
    http://localhost:3000
    ```
+---
 
 ## License
 
 This project is licensed under the MIT License.
 Developed by **B Mounika**
 
-```
+---
